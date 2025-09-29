@@ -32,6 +32,7 @@ git pull origin develop
 git checkout -b feature/awesome-new-button
 # Или для исправления бага используйте префикс fix/
 git checkout -b fix/login-form-error
+```
 
 ### 2. Регулярно делайте коммиты
 
